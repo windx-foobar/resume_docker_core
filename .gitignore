@@ -1,0 +1,5 @@
+database/*
+logs/*
+resume_frontend
+resume_backend
+hosts/*
